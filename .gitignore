@@ -1,4 +1,5 @@
-.node_modules_global/
+node_modules
+package.json
 package-lock.json
 prototypes
 source

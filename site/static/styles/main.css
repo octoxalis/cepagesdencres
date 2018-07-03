@@ -2,7 +2,7 @@
 
 body {
     padding: 0 6vw 0 6vw;
-    max-width: 960px;
+    max-width: 1200px;
     min-height: 100vh;
     /*height:100vh;*/
     width: auto;
@@ -23,7 +23,7 @@ li {
 .ce_logo,
 .ce_subtitle {
     font-family: 'Philosopher', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 800;
 }
 
